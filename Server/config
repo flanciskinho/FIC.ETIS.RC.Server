@@ -1,0 +1,5 @@
+defaultDirectory = ./src/Content/
+defaultFile = ./index.html
+port = 5555
+allow = true
+verbose = true

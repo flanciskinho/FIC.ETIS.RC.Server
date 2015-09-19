@@ -1,0 +1,36 @@
+body {
+	background-color: #DADADA;
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#title{
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+p {
+	padding: 0px;
+	margin: 0px;
+
+	font-size: 14pt;
+	padding-left: 40px;/* Para simular el tabulador */
+}
+
+a {
+    text-decoration: none;
+}
+
+p.dir a{
+	color: #0080FF;
+}
+
+p.file a{
+	color: #4C4C4C;
+}
+
+p.exe a{
+	color: #E8AA54;
+}
